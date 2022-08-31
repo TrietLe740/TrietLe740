@@ -1,4 +1,4 @@
-<img src="./svg"/> 
+<img src="./background.png"/>   
 <h1 align="center">Hi there✌️'m Triet Le</h1>
 <h3 align="center">--A Student in Can Tho University--</h3>
 

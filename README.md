@@ -41,6 +41,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/username=trietle740&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/triet.le.ctu/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tri%E1%BA%BFt-l%C3%AA-839596199/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/triet.le.ctu/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tri%E1%BA%BFt-l%C3%AA-839596199/) 
 
 ### #Learn for your life!
